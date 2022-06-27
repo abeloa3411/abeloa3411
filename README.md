@@ -3,7 +3,7 @@
 #### I am a frontend web developer
 I am abel from kenya, i enjoy doing javascript and react. i'm a fan of learning new technologies and i'm looking foward to learn node js to be a fullstack javascript developer
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / NODE
 
 - 🌱 I’m currently learning aws 
 - 👯 I’m looking to collaborate on MERN projects 
