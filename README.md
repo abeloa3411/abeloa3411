@@ -1,13 +1,13 @@
 
 ### Hi there 👋, my name is Abel wanyonyi
-#### I am a frontend web developer
-I am abel from kenya, i enjoy doing javascript and react. i'm a fan of learning new technologies and i'm looking foward to learn node js to be a fullstack javascript developer
+#### I am a web developer
+I am abel, i enjoy creating cool stuffs with javascript and python. I am  also a bug hunter 
 
-Skills: REACT / JS / HTML / CSS / NODE
+Skills: REACT / JS / HTML / CSS / NODE / PYTHON
 
 - 🌱 I’m currently learning aws 
-- 👯 I’m looking to collaborate on MERN projects 
-- 💬 Ask me about javascript and react 
+- 👯 I’m looking to collaborate more with other developers 
+- 💬 Ask me about javascript, react, node, python, flask 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abeloa3411)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](abelwanyonyi.hashnode.dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dm_puppy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abel_wanyonyi_)  
