@@ -5,9 +5,9 @@ I am abel, i enjoy creating cool stuffs with javascript and python. I am  also a
 
 - 🌱 I’m constantly learning
 
-- 👨‍💻 Some of my notable projects are available at [abel-wanyonyi](https://www.abel-wanyonyi.vercel.app/)
+- 👨‍💻 Some of my notable projects are available at [abel-wanyonyi](https://abel-wanyonyi.vercel.app/)
 
-- 📝 I regularly write articles on: [my blog](https://www.abel-wanyonyi.vercel.app)
+- 📝 I regularly write articles on: [my blog](https://abel-wanyonyi.vercel.app)
 
 - 💬 Ask me about **Full-stack** development with **JavaScript/Python, end-to-end testing, CI/CD** & **technical writing**
 
