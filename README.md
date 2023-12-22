@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Abel wanyonyi
-#### I am a web developer
+#### I create Cool Mobile apps and websites
 I am abel, i enjoy creating cool stuffs. I am  also a bug hunter 
 
 - 🌱 I’m constantly learning
