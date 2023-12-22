@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Abel wanyonyi
 #### I am a web developer
-I am abel, i enjoy creating cool stuffs with javascript and python. I am  also a bug hunter 
+I am abel, i enjoy creating cool stuffs. I am  also a bug hunter 
 
 - 🌱 I’m constantly learning
 
@@ -9,7 +9,7 @@ I am abel, i enjoy creating cool stuffs with javascript and python. I am  also a
 
 - 📝 I regularly write articles on: [my blog](https://abel-wanyonyi.vercel.app)
 
-- 💬 Ask me about **Full-stack** development with **JavaScript/Python, end-to-end testing, CI/CD** & **technical writing**
+- 💬 Ask me about **Full-stack** development with **JavaScript, Kotlin** & **technical writing**
 
 - 📫 How to reach me **abelw34@gmail.com**
  
