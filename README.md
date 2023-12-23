@@ -1,7 +1,6 @@
 
 ### Hi there 👋, my name is Abel wanyonyi
-#### I create Cool Mobile apps and websites
-I am abel, i enjoy creating cool stuffs. I am  also a bug hunter 
+#### I create Cool Mobile apps and websites with kotlin and javascript
 
 - 🌱 I’m constantly learning
 
